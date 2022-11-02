@@ -1,0 +1,23 @@
+.Menu nav ul {
+    background-color: #222;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+  }
+  
+  .Menu nav ul li {
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 20px;
+  }
+  
+  .Menu nav ul li a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .Menu nav ul li a:hover {
+    background-color: #111111;
+  }
